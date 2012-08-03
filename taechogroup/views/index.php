@@ -1,0 +1,1 @@
+<pre>{exp:taechogroup:category_entry_loop cat_url="{segment_2}"    {title}    {url_title}    {...}{/exp:taechogroup:category_entry_loop}</pre><? 	// include pagination	//require_once(APPPATH . 'third_party/tgregistration/views/pagination.php');?>
